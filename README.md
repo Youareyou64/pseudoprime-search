@@ -2,7 +2,7 @@
 
 ## What?
 
-This is a simple Python program that searches for pseudoprimes, specifically those that are exceptions to the theory stating that if $$2^n - 2$$ **is divisible by *n***, then n is prime. As this program makes clear, there are many exceptions to this "rule" (an infinite amount of them, in fact). 
+This is a simple Python program that searches for pseudoprimes, specifically those that are exceptions to the theory stating that if 2^n - 2 **is divisible by *n***, then n is prime. As this program makes clear, there are many exceptions to this "rule" (an infinite amount of them, in fact). 
 
 ## Why?
 **Because why not?**
